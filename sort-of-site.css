@@ -1,0 +1,287 @@
+section {
+	padding-top: 5%;
+}
+
+ h5 {
+	color: #0080FF;
+}
+
+h4 {
+	line-height: 1.5;
+	color: #A4A4A4;
+}
+
+h1{
+	color: black;
+	margin-top: 0;
+}
+
+.line {
+	margin: 4% 0%;
+}
+
+/*HOME*/
+#home{
+	background-image: url(file:///D:/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD%D1%8B/lucid/img/banner.jpg);
+    background-repeat: no-repeat;
+	background-size: cover;	
+}
+
+#home-board {
+	padding-top: 60px;
+	max-width: 100%;
+}
+
+#home-board  h5{
+	font-size: 15px;
+}
+
+#home-board h1 {
+	color: white;
+	font-size: 48px;
+}
+
+#home-board h4 {
+	line-height: 2;
+	color: grey;
+	font-size: 20px;
+}
+
+#download-btn {
+	background-color: #0080FF;
+    border: none;	
+	color: white;
+	border-radius: 3px;
+	padding: 15px 17px;
+	margin: 10px;
+	float: left;
+	width: 160px;
+}
+
+#view-btn {
+	background-image: none; 
+    background-color: transparent;
+    border: 1px solid grey;	
+	color: white;
+	border-radius: 3px;
+	padding: 15px 17px;
+	margin: 10px;
+	float: left;
+	width: 160px;
+}
+/* END HOME SECTION*/
+
+
+/* FEATURES*/
+#features  h1{
+	color: black;
+	margin-top: 0;
+}
+
+#features .line {
+	position: relative;
+	left: 48%;
+	margin-top: 2%;
+}
+
+.pow {
+	background-color: #ffffff;
+    position:relative;
+	border-radius: 100%;
+	padding: 14%;
+	border: 2px solid #0080FF;
+}
+
+#features .con {
+    font-size: 22px;
+	color: #0080FF;
+}
+
+#features .row {
+	margin-top: 5%;
+}
+
+#features h4 {
+	line-height: 1.5;
+	color: #A4A4A4;
+}
+/*END FEATURES SECTION*/
+
+
+/*ABOUT*/
+#about .con {
+	padding-right:2px;
+	margin-right: 4px;
+	font-size: 19px;
+	color: #0080FF;
+}
+
+#about li {
+	list-style-type:none;
+	color: black;
+	font-size: 130%;
+}
+/*END ABOUT SECTION*/
+
+
+/*TESTIMONIALS*/
+#testimonials {
+	background-image: url(file:///D:/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD%D1%8B/lucid/img/paralax.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;	
+}
+
+#testimonials h1 {
+	color: white;
+}
+
+#testimonials .line {
+	margin: 4% 0%;
+}
+
+.item {
+    margin-top: 10%;
+}
+
+.item p {
+	color: white;
+	font-size: 170%;
+} 
+
+.img-circle {
+	float: left;
+	margin: 0% 5% 30% 0%;
+}
+
+#download-btn1 {
+	background-color: #0080FF;
+    border: none;	
+	color: white;
+	border-radius: 3px;
+	padding: 15px 17px;
+	margin: 10px 10px;
+	width: 160px;
+}
+
+#view-btn1 {
+	background-image: none; 
+    background-color: transparent;
+    border: 1px solid grey;	
+	color: white;
+	border-radius: 3px;
+	padding: 15px 17px;
+	margin: 10px 10px;
+	float: left;
+	width: 160px;
+}
+
+#pricing-bot {
+	background-color: #070719;
+	padding: 70px 0px;
+}
+
+#pricing-bot h1 {
+	margin-top: 10px;
+	color: white;
+}
+/*END TESTIMONIALS SECTION*/
+
+/*PRICING*/
+#pricing .line {
+	position: relative;
+	left: 48%;
+	margin: 1.5% 0% 5% 0%;	
+}
+
+.panel-footer {
+	padding: 24px 0px;
+    margin: 0px 20px;	
+}
+
+#pricing .btn {
+	background-color: white;
+    border: 1px solid #D8D8D8;	
+	color: #0080FF;
+	border-radius: 3px;
+	padding: 15px 17px;
+	margin: 30px 0px 20px 0px;
+	width: 160px;
+}
+
+.panel-body  span{
+	font-size: 20px;
+}
+/*END PRICING SECTION*/
+
+/*CONTACT*/
+#contact .line {
+	position: relative;
+	left: 48%;
+	margin: 1.5% 0% 5% 0%;	
+}
+
+#contact .btn{
+	background-color: #0080FF;
+    border: none;	
+	color: white;
+	border-radius: 3px;
+	padding: 15px 17px;
+	width: 160px;
+}
+/*END CONTACT SECTION*/
+
+/*FOOTER*/
+.footer {
+	margin-top: 10px;
+	background-color: #070719;
+	padding: 2% 0%;
+}
+
+.footer p {
+	color: #444348;
+	margin-top: 10px;
+}
+
+.icons .glyphicon{
+	padding: 0px 20px 0px 20px;
+	margin-top: 10px;
+	color: #444348;
+	font-size: 15px;
+}
+
+.icons .glyphicon:hover {
+	color: #0489B1;
+}
+/*END FOOTER SECTION*/
+
+/*NAVBAR*/
+.navbar-header .logo{
+	margin-top: -25px;
+    margin-bottom: 10px;
+	max-width: 100%;
+    height: auto;
+}
+
+.navbar {
+	background-color: #18171D;
+	padding: 0% 5% 0% 5%;
+}
+
+.navbar li a {
+	font-size: 16px;
+	padding: 8px 0px;
+	margin: 8px 15px;
+}
+
+.navbar li a, .navbar .navbar-brand {
+    color: #fff !important;
+}
+
+.navbar-nav li a:hover, .navbar-nav li.active a {
+	border-bottom: 2px solid #0080FF;
+    background-color: #18171D !important;
+}
+.navbar li a, .navbar .navbar-brand {
+    color: #fff !important;
+}
+/*END NAVBAR SECTION*/
