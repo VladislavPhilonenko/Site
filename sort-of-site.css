@@ -22,7 +22,7 @@ h1{
 
 /*HOME*/
 #home{
-	background-image: url(file:///D:/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD%D1%8B/lucid/img/banner.jpg);
+	background-image: url(img/banner.jpg);
     background-repeat: no-repeat;
 	background-size: cover;	
 }
@@ -126,7 +126,7 @@ h1{
 
 /*TESTIMONIALS*/
 #testimonials {
-	background-image: url(file:///D:/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD%D1%8B/lucid/img/paralax.jpg);
+	background-image: url(img/paralax.jpg);
 	background-repeat: no-repeat;
 	background-size: cover;	
 }
