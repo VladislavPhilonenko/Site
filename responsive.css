@@ -259,10 +259,14 @@
 		margin-top: 40px;
 	}
 	
-	#features .con {
+	#features .fa {
 		font-size: 20px;
 	}
 	
+	#features .pow {
+	border: 1px solid #0080FF;
+}
+
 	#about h1 {
 		font-size: 25px;
 	}
@@ -404,16 +408,19 @@
 	}
 	
 	.contact {
-	  height: 900px;
+	  	height: 900px;
 	}
 	
 	.contact p {
-	  font-size: 13px;
+	  	font-size: 13px;
 	}
 	
 	.footer .glyphicon {
 		font-size: 12px;
 	}
-	
-	
+
+	.top-header img.logo {
+		position: absolute;
+		margin-bottom: 20px;
+	}
 }
